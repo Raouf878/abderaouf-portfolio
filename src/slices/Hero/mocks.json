@@ -1,0 +1,29 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"firstname": {
+				"__TYPE__": "FieldContent",
+				"value": "double",
+				"type": "Text"
+			},
+			"lastname": {
+				"__TYPE__": "FieldContent",
+				"value": "section",
+				"type": "Text"
+			},
+			"tagline": {
+				"__TYPE__": "FieldContent",
+				"value": "science",
+				"type": "Text"
+			},
+			"lastname2": {
+				"__TYPE__": "FieldContent",
+				"value": "cabin",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

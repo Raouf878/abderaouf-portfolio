@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "life",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"techname",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "arrow",
+							"type": "Text"
+						}
+					],
+					[
+						"techcolor",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#64e826",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]

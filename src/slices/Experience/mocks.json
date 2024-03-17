@@ -1,0 +1,58 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "jump",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "itself",
+							"type": "Text"
+						}
+					],
+					[
+						"time_period",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "planned",
+							"type": "Text"
+						}
+					],
+					[
+						"insititution",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "clean",
+							"type": "Text"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Consectetur eiusmod sit voluptate duis ullamco irure nisi sit ut ut. Qui ex sunt proident voluptate sint elit aliquip laborum ipsum qui. Ex non consequat in elit voluptate duis non commodo officia aliqua fugiat dolore."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
