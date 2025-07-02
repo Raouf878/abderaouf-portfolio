@@ -22,11 +22,9 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
       text: "Looking",
     },
     {
-      text: "for an",
+      text: "for a",
     },
-    {
-      text: "up to",
-    },
+    
     {
       text: "6 months",
     },
@@ -35,7 +33,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
       className: "text-blue-500 dark:text-blue-500",
     },
     {
-      text: "starting 09/24.",
+      text: "starting 01/26.",
       
     },
   ];
